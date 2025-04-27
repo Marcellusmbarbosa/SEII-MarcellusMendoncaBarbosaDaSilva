@@ -1,0 +1,15 @@
+/home/marco/SEII/SEII-MarcoTulioVilelaFonseca/Semana04/Exercicio02/Video08/06Encapsulamento/bin/Debug/net8.0/06Encapsulamento
+/home/marco/SEII/SEII-MarcoTulioVilelaFonseca/Semana04/Exercicio02/Video08/06Encapsulamento/bin/Debug/net8.0/06Encapsulamento.deps.json
+/home/marco/SEII/SEII-MarcoTulioVilelaFonseca/Semana04/Exercicio02/Video08/06Encapsulamento/bin/Debug/net8.0/06Encapsulamento.runtimeconfig.json
+/home/marco/SEII/SEII-MarcoTulioVilelaFonseca/Semana04/Exercicio02/Video08/06Encapsulamento/bin/Debug/net8.0/06Encapsulamento.dll
+/home/marco/SEII/SEII-MarcoTulioVilelaFonseca/Semana04/Exercicio02/Video08/06Encapsulamento/bin/Debug/net8.0/06Encapsulamento.pdb
+/home/marco/SEII/SEII-MarcoTulioVilelaFonseca/Semana04/Exercicio02/Video08/06Encapsulamento/obj/Debug/net8.0/06Encapsulamento.GeneratedMSBuildEditorConfig.editorconfig
+/home/marco/SEII/SEII-MarcoTulioVilelaFonseca/Semana04/Exercicio02/Video08/06Encapsulamento/obj/Debug/net8.0/06Encapsulamento.AssemblyInfoInputs.cache
+/home/marco/SEII/SEII-MarcoTulioVilelaFonseca/Semana04/Exercicio02/Video08/06Encapsulamento/obj/Debug/net8.0/06Encapsulamento.AssemblyInfo.cs
+/home/marco/SEII/SEII-MarcoTulioVilelaFonseca/Semana04/Exercicio02/Video08/06Encapsulamento/obj/Debug/net8.0/06Encapsulamento.csproj.CoreCompileInputs.cache
+/home/marco/SEII/SEII-MarcoTulioVilelaFonseca/Semana04/Exercicio02/Video08/06Encapsulamento/obj/Debug/net8.0/06Encapsulamento.sourcelink.json
+/home/marco/SEII/SEII-MarcoTulioVilelaFonseca/Semana04/Exercicio02/Video08/06Encapsulamento/obj/Debug/net8.0/06Encapsulamento.dll
+/home/marco/SEII/SEII-MarcoTulioVilelaFonseca/Semana04/Exercicio02/Video08/06Encapsulamento/obj/Debug/net8.0/refint/06Encapsulamento.dll
+/home/marco/SEII/SEII-MarcoTulioVilelaFonseca/Semana04/Exercicio02/Video08/06Encapsulamento/obj/Debug/net8.0/06Encapsulamento.pdb
+/home/marco/SEII/SEII-MarcoTulioVilelaFonseca/Semana04/Exercicio02/Video08/06Encapsulamento/obj/Debug/net8.0/06Encapsulamento.genruntimeconfig.cache
+/home/marco/SEII/SEII-MarcoTulioVilelaFonseca/Semana04/Exercicio02/Video08/06Encapsulamento/obj/Debug/net8.0/ref/06Encapsulamento.dll

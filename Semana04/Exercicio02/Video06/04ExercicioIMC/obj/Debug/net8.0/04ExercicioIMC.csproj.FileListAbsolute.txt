@@ -1,0 +1,15 @@
+/home/marco/SEII/SEII-MarcoTulioVilelaFonseca/Semana04/Exercicio02/Video06/04ExercicioIMC/bin/Debug/net8.0/04ExercicioIMC
+/home/marco/SEII/SEII-MarcoTulioVilelaFonseca/Semana04/Exercicio02/Video06/04ExercicioIMC/bin/Debug/net8.0/04ExercicioIMC.deps.json
+/home/marco/SEII/SEII-MarcoTulioVilelaFonseca/Semana04/Exercicio02/Video06/04ExercicioIMC/bin/Debug/net8.0/04ExercicioIMC.runtimeconfig.json
+/home/marco/SEII/SEII-MarcoTulioVilelaFonseca/Semana04/Exercicio02/Video06/04ExercicioIMC/bin/Debug/net8.0/04ExercicioIMC.dll
+/home/marco/SEII/SEII-MarcoTulioVilelaFonseca/Semana04/Exercicio02/Video06/04ExercicioIMC/bin/Debug/net8.0/04ExercicioIMC.pdb
+/home/marco/SEII/SEII-MarcoTulioVilelaFonseca/Semana04/Exercicio02/Video06/04ExercicioIMC/obj/Debug/net8.0/04ExercicioIMC.GeneratedMSBuildEditorConfig.editorconfig
+/home/marco/SEII/SEII-MarcoTulioVilelaFonseca/Semana04/Exercicio02/Video06/04ExercicioIMC/obj/Debug/net8.0/04ExercicioIMC.AssemblyInfoInputs.cache
+/home/marco/SEII/SEII-MarcoTulioVilelaFonseca/Semana04/Exercicio02/Video06/04ExercicioIMC/obj/Debug/net8.0/04ExercicioIMC.AssemblyInfo.cs
+/home/marco/SEII/SEII-MarcoTulioVilelaFonseca/Semana04/Exercicio02/Video06/04ExercicioIMC/obj/Debug/net8.0/04ExercicioIMC.csproj.CoreCompileInputs.cache
+/home/marco/SEII/SEII-MarcoTulioVilelaFonseca/Semana04/Exercicio02/Video06/04ExercicioIMC/obj/Debug/net8.0/04ExercicioIMC.sourcelink.json
+/home/marco/SEII/SEII-MarcoTulioVilelaFonseca/Semana04/Exercicio02/Video06/04ExercicioIMC/obj/Debug/net8.0/04ExercicioIMC.dll
+/home/marco/SEII/SEII-MarcoTulioVilelaFonseca/Semana04/Exercicio02/Video06/04ExercicioIMC/obj/Debug/net8.0/refint/04ExercicioIMC.dll
+/home/marco/SEII/SEII-MarcoTulioVilelaFonseca/Semana04/Exercicio02/Video06/04ExercicioIMC/obj/Debug/net8.0/04ExercicioIMC.pdb
+/home/marco/SEII/SEII-MarcoTulioVilelaFonseca/Semana04/Exercicio02/Video06/04ExercicioIMC/obj/Debug/net8.0/04ExercicioIMC.genruntimeconfig.cache
+/home/marco/SEII/SEII-MarcoTulioVilelaFonseca/Semana04/Exercicio02/Video06/04ExercicioIMC/obj/Debug/net8.0/ref/04ExercicioIMC.dll

@@ -1,0 +1,15 @@
+/home/marco/SEII/SEII-MarcoTulioVilelaFonseca/Semana04/Exercicio02/Video04/02Metodos/obj/Debug/net8.0/02Metodos.GeneratedMSBuildEditorConfig.editorconfig
+/home/marco/SEII/SEII-MarcoTulioVilelaFonseca/Semana04/Exercicio02/Video04/02Metodos/obj/Debug/net8.0/02Metodos.AssemblyInfoInputs.cache
+/home/marco/SEII/SEII-MarcoTulioVilelaFonseca/Semana04/Exercicio02/Video04/02Metodos/obj/Debug/net8.0/02Metodos.AssemblyInfo.cs
+/home/marco/SEII/SEII-MarcoTulioVilelaFonseca/Semana04/Exercicio02/Video04/02Metodos/obj/Debug/net8.0/02Metodos.csproj.CoreCompileInputs.cache
+/home/marco/SEII/SEII-MarcoTulioVilelaFonseca/Semana04/Exercicio02/Video04/02Metodos/obj/Debug/net8.0/02Metodos.sourcelink.json
+/home/marco/SEII/SEII-MarcoTulioVilelaFonseca/Semana04/Exercicio02/Video04/02Metodos/bin/Debug/net8.0/02Metodos
+/home/marco/SEII/SEII-MarcoTulioVilelaFonseca/Semana04/Exercicio02/Video04/02Metodos/bin/Debug/net8.0/02Metodos.deps.json
+/home/marco/SEII/SEII-MarcoTulioVilelaFonseca/Semana04/Exercicio02/Video04/02Metodos/bin/Debug/net8.0/02Metodos.runtimeconfig.json
+/home/marco/SEII/SEII-MarcoTulioVilelaFonseca/Semana04/Exercicio02/Video04/02Metodos/bin/Debug/net8.0/02Metodos.dll
+/home/marco/SEII/SEII-MarcoTulioVilelaFonseca/Semana04/Exercicio02/Video04/02Metodos/bin/Debug/net8.0/02Metodos.pdb
+/home/marco/SEII/SEII-MarcoTulioVilelaFonseca/Semana04/Exercicio02/Video04/02Metodos/obj/Debug/net8.0/02Metodos.dll
+/home/marco/SEII/SEII-MarcoTulioVilelaFonseca/Semana04/Exercicio02/Video04/02Metodos/obj/Debug/net8.0/refint/02Metodos.dll
+/home/marco/SEII/SEII-MarcoTulioVilelaFonseca/Semana04/Exercicio02/Video04/02Metodos/obj/Debug/net8.0/02Metodos.pdb
+/home/marco/SEII/SEII-MarcoTulioVilelaFonseca/Semana04/Exercicio02/Video04/02Metodos/obj/Debug/net8.0/02Metodos.genruntimeconfig.cache
+/home/marco/SEII/SEII-MarcoTulioVilelaFonseca/Semana04/Exercicio02/Video04/02Metodos/obj/Debug/net8.0/ref/02Metodos.dll

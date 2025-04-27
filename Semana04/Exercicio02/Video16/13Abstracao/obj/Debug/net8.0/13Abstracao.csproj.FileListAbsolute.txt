@@ -1,0 +1,15 @@
+/home/marco/SEII/SEII-MarcoTulioVilelaFonseca/Semana04/Exercicio02/Video16/13Abstracao/obj/Debug/net8.0/13Abstracao.GeneratedMSBuildEditorConfig.editorconfig
+/home/marco/SEII/SEII-MarcoTulioVilelaFonseca/Semana04/Exercicio02/Video16/13Abstracao/obj/Debug/net8.0/13Abstracao.AssemblyInfoInputs.cache
+/home/marco/SEII/SEII-MarcoTulioVilelaFonseca/Semana04/Exercicio02/Video16/13Abstracao/obj/Debug/net8.0/13Abstracao.AssemblyInfo.cs
+/home/marco/SEII/SEII-MarcoTulioVilelaFonseca/Semana04/Exercicio02/Video16/13Abstracao/obj/Debug/net8.0/13Abstracao.csproj.CoreCompileInputs.cache
+/home/marco/SEII/SEII-MarcoTulioVilelaFonseca/Semana04/Exercicio02/Video16/13Abstracao/obj/Debug/net8.0/13Abstracao.sourcelink.json
+/home/marco/SEII/SEII-MarcoTulioVilelaFonseca/Semana04/Exercicio02/Video16/13Abstracao/bin/Debug/net8.0/13Abstracao
+/home/marco/SEII/SEII-MarcoTulioVilelaFonseca/Semana04/Exercicio02/Video16/13Abstracao/bin/Debug/net8.0/13Abstracao.deps.json
+/home/marco/SEII/SEII-MarcoTulioVilelaFonseca/Semana04/Exercicio02/Video16/13Abstracao/bin/Debug/net8.0/13Abstracao.runtimeconfig.json
+/home/marco/SEII/SEII-MarcoTulioVilelaFonseca/Semana04/Exercicio02/Video16/13Abstracao/bin/Debug/net8.0/13Abstracao.dll
+/home/marco/SEII/SEII-MarcoTulioVilelaFonseca/Semana04/Exercicio02/Video16/13Abstracao/bin/Debug/net8.0/13Abstracao.pdb
+/home/marco/SEII/SEII-MarcoTulioVilelaFonseca/Semana04/Exercicio02/Video16/13Abstracao/obj/Debug/net8.0/13Abstracao.dll
+/home/marco/SEII/SEII-MarcoTulioVilelaFonseca/Semana04/Exercicio02/Video16/13Abstracao/obj/Debug/net8.0/refint/13Abstracao.dll
+/home/marco/SEII/SEII-MarcoTulioVilelaFonseca/Semana04/Exercicio02/Video16/13Abstracao/obj/Debug/net8.0/13Abstracao.pdb
+/home/marco/SEII/SEII-MarcoTulioVilelaFonseca/Semana04/Exercicio02/Video16/13Abstracao/obj/Debug/net8.0/13Abstracao.genruntimeconfig.cache
+/home/marco/SEII/SEII-MarcoTulioVilelaFonseca/Semana04/Exercicio02/Video16/13Abstracao/obj/Debug/net8.0/ref/13Abstracao.dll

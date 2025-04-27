@@ -1,0 +1,15 @@
+/home/marco/SEII/SEII-MarcoTulioVilelaFonseca/Semana04/Exercicio02/Video13/11Polimorfismo/bin/Debug/net8.0/11Polimorfismo
+/home/marco/SEII/SEII-MarcoTulioVilelaFonseca/Semana04/Exercicio02/Video13/11Polimorfismo/bin/Debug/net8.0/11Polimorfismo.deps.json
+/home/marco/SEII/SEII-MarcoTulioVilelaFonseca/Semana04/Exercicio02/Video13/11Polimorfismo/bin/Debug/net8.0/11Polimorfismo.runtimeconfig.json
+/home/marco/SEII/SEII-MarcoTulioVilelaFonseca/Semana04/Exercicio02/Video13/11Polimorfismo/bin/Debug/net8.0/11Polimorfismo.dll
+/home/marco/SEII/SEII-MarcoTulioVilelaFonseca/Semana04/Exercicio02/Video13/11Polimorfismo/bin/Debug/net8.0/11Polimorfismo.pdb
+/home/marco/SEII/SEII-MarcoTulioVilelaFonseca/Semana04/Exercicio02/Video13/11Polimorfismo/obj/Debug/net8.0/11Polimorfismo.GeneratedMSBuildEditorConfig.editorconfig
+/home/marco/SEII/SEII-MarcoTulioVilelaFonseca/Semana04/Exercicio02/Video13/11Polimorfismo/obj/Debug/net8.0/11Polimorfismo.AssemblyInfoInputs.cache
+/home/marco/SEII/SEII-MarcoTulioVilelaFonseca/Semana04/Exercicio02/Video13/11Polimorfismo/obj/Debug/net8.0/11Polimorfismo.AssemblyInfo.cs
+/home/marco/SEII/SEII-MarcoTulioVilelaFonseca/Semana04/Exercicio02/Video13/11Polimorfismo/obj/Debug/net8.0/11Polimorfismo.csproj.CoreCompileInputs.cache
+/home/marco/SEII/SEII-MarcoTulioVilelaFonseca/Semana04/Exercicio02/Video13/11Polimorfismo/obj/Debug/net8.0/11Polimorfismo.sourcelink.json
+/home/marco/SEII/SEII-MarcoTulioVilelaFonseca/Semana04/Exercicio02/Video13/11Polimorfismo/obj/Debug/net8.0/11Polimorfismo.dll
+/home/marco/SEII/SEII-MarcoTulioVilelaFonseca/Semana04/Exercicio02/Video13/11Polimorfismo/obj/Debug/net8.0/refint/11Polimorfismo.dll
+/home/marco/SEII/SEII-MarcoTulioVilelaFonseca/Semana04/Exercicio02/Video13/11Polimorfismo/obj/Debug/net8.0/11Polimorfismo.pdb
+/home/marco/SEII/SEII-MarcoTulioVilelaFonseca/Semana04/Exercicio02/Video13/11Polimorfismo/obj/Debug/net8.0/11Polimorfismo.genruntimeconfig.cache
+/home/marco/SEII/SEII-MarcoTulioVilelaFonseca/Semana04/Exercicio02/Video13/11Polimorfismo/obj/Debug/net8.0/ref/11Polimorfismo.dll

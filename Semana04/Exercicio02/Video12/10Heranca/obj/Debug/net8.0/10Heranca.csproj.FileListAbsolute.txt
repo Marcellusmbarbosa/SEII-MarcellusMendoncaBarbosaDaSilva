@@ -1,0 +1,15 @@
+/home/marco/SEII/SEII-MarcoTulioVilelaFonseca/Semana04/Exercicio02/Video12/10Heranca/bin/Debug/net8.0/10Heranca
+/home/marco/SEII/SEII-MarcoTulioVilelaFonseca/Semana04/Exercicio02/Video12/10Heranca/bin/Debug/net8.0/10Heranca.deps.json
+/home/marco/SEII/SEII-MarcoTulioVilelaFonseca/Semana04/Exercicio02/Video12/10Heranca/bin/Debug/net8.0/10Heranca.runtimeconfig.json
+/home/marco/SEII/SEII-MarcoTulioVilelaFonseca/Semana04/Exercicio02/Video12/10Heranca/bin/Debug/net8.0/10Heranca.dll
+/home/marco/SEII/SEII-MarcoTulioVilelaFonseca/Semana04/Exercicio02/Video12/10Heranca/bin/Debug/net8.0/10Heranca.pdb
+/home/marco/SEII/SEII-MarcoTulioVilelaFonseca/Semana04/Exercicio02/Video12/10Heranca/obj/Debug/net8.0/10Heranca.GeneratedMSBuildEditorConfig.editorconfig
+/home/marco/SEII/SEII-MarcoTulioVilelaFonseca/Semana04/Exercicio02/Video12/10Heranca/obj/Debug/net8.0/10Heranca.AssemblyInfoInputs.cache
+/home/marco/SEII/SEII-MarcoTulioVilelaFonseca/Semana04/Exercicio02/Video12/10Heranca/obj/Debug/net8.0/10Heranca.AssemblyInfo.cs
+/home/marco/SEII/SEII-MarcoTulioVilelaFonseca/Semana04/Exercicio02/Video12/10Heranca/obj/Debug/net8.0/10Heranca.csproj.CoreCompileInputs.cache
+/home/marco/SEII/SEII-MarcoTulioVilelaFonseca/Semana04/Exercicio02/Video12/10Heranca/obj/Debug/net8.0/10Heranca.sourcelink.json
+/home/marco/SEII/SEII-MarcoTulioVilelaFonseca/Semana04/Exercicio02/Video12/10Heranca/obj/Debug/net8.0/10Heranca.dll
+/home/marco/SEII/SEII-MarcoTulioVilelaFonseca/Semana04/Exercicio02/Video12/10Heranca/obj/Debug/net8.0/refint/10Heranca.dll
+/home/marco/SEII/SEII-MarcoTulioVilelaFonseca/Semana04/Exercicio02/Video12/10Heranca/obj/Debug/net8.0/10Heranca.pdb
+/home/marco/SEII/SEII-MarcoTulioVilelaFonseca/Semana04/Exercicio02/Video12/10Heranca/obj/Debug/net8.0/10Heranca.genruntimeconfig.cache
+/home/marco/SEII/SEII-MarcoTulioVilelaFonseca/Semana04/Exercicio02/Video12/10Heranca/obj/Debug/net8.0/ref/10Heranca.dll

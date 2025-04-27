@@ -1,0 +1,15 @@
+/home/marco/SEII/SEII-MarcoTulioVilelaFonseca/Semana04/Exercicio02/Video05/03ExercicioEscolar/obj/Debug/net8.0/03ExercicioEscolar.GeneratedMSBuildEditorConfig.editorconfig
+/home/marco/SEII/SEII-MarcoTulioVilelaFonseca/Semana04/Exercicio02/Video05/03ExercicioEscolar/obj/Debug/net8.0/03ExercicioEscolar.AssemblyInfoInputs.cache
+/home/marco/SEII/SEII-MarcoTulioVilelaFonseca/Semana04/Exercicio02/Video05/03ExercicioEscolar/obj/Debug/net8.0/03ExercicioEscolar.AssemblyInfo.cs
+/home/marco/SEII/SEII-MarcoTulioVilelaFonseca/Semana04/Exercicio02/Video05/03ExercicioEscolar/obj/Debug/net8.0/03ExercicioEscolar.csproj.CoreCompileInputs.cache
+/home/marco/SEII/SEII-MarcoTulioVilelaFonseca/Semana04/Exercicio02/Video05/03ExercicioEscolar/obj/Debug/net8.0/03ExercicioEscolar.sourcelink.json
+/home/marco/SEII/SEII-MarcoTulioVilelaFonseca/Semana04/Exercicio02/Video05/03ExercicioEscolar/bin/Debug/net8.0/03ExercicioEscolar
+/home/marco/SEII/SEII-MarcoTulioVilelaFonseca/Semana04/Exercicio02/Video05/03ExercicioEscolar/bin/Debug/net8.0/03ExercicioEscolar.deps.json
+/home/marco/SEII/SEII-MarcoTulioVilelaFonseca/Semana04/Exercicio02/Video05/03ExercicioEscolar/bin/Debug/net8.0/03ExercicioEscolar.runtimeconfig.json
+/home/marco/SEII/SEII-MarcoTulioVilelaFonseca/Semana04/Exercicio02/Video05/03ExercicioEscolar/bin/Debug/net8.0/03ExercicioEscolar.dll
+/home/marco/SEII/SEII-MarcoTulioVilelaFonseca/Semana04/Exercicio02/Video05/03ExercicioEscolar/bin/Debug/net8.0/03ExercicioEscolar.pdb
+/home/marco/SEII/SEII-MarcoTulioVilelaFonseca/Semana04/Exercicio02/Video05/03ExercicioEscolar/obj/Debug/net8.0/03ExercicioEscolar.dll
+/home/marco/SEII/SEII-MarcoTulioVilelaFonseca/Semana04/Exercicio02/Video05/03ExercicioEscolar/obj/Debug/net8.0/refint/03ExercicioEscolar.dll
+/home/marco/SEII/SEII-MarcoTulioVilelaFonseca/Semana04/Exercicio02/Video05/03ExercicioEscolar/obj/Debug/net8.0/03ExercicioEscolar.pdb
+/home/marco/SEII/SEII-MarcoTulioVilelaFonseca/Semana04/Exercicio02/Video05/03ExercicioEscolar/obj/Debug/net8.0/03ExercicioEscolar.genruntimeconfig.cache
+/home/marco/SEII/SEII-MarcoTulioVilelaFonseca/Semana04/Exercicio02/Video05/03ExercicioEscolar/obj/Debug/net8.0/ref/03ExercicioEscolar.dll
