@@ -1,0 +1,15 @@
+/home/marco/SEII/SEII-MarcoTulioVilelaFonseca/Semana05/Exercicio02/ProgAssincrona/bin/Debug/net8.0/ProgAssincrona
+/home/marco/SEII/SEII-MarcoTulioVilelaFonseca/Semana05/Exercicio02/ProgAssincrona/bin/Debug/net8.0/ProgAssincrona.deps.json
+/home/marco/SEII/SEII-MarcoTulioVilelaFonseca/Semana05/Exercicio02/ProgAssincrona/bin/Debug/net8.0/ProgAssincrona.runtimeconfig.json
+/home/marco/SEII/SEII-MarcoTulioVilelaFonseca/Semana05/Exercicio02/ProgAssincrona/bin/Debug/net8.0/ProgAssincrona.dll
+/home/marco/SEII/SEII-MarcoTulioVilelaFonseca/Semana05/Exercicio02/ProgAssincrona/bin/Debug/net8.0/ProgAssincrona.pdb
+/home/marco/SEII/SEII-MarcoTulioVilelaFonseca/Semana05/Exercicio02/ProgAssincrona/obj/Debug/net8.0/ProgAssincrona.GeneratedMSBuildEditorConfig.editorconfig
+/home/marco/SEII/SEII-MarcoTulioVilelaFonseca/Semana05/Exercicio02/ProgAssincrona/obj/Debug/net8.0/ProgAssincrona.AssemblyInfoInputs.cache
+/home/marco/SEII/SEII-MarcoTulioVilelaFonseca/Semana05/Exercicio02/ProgAssincrona/obj/Debug/net8.0/ProgAssincrona.AssemblyInfo.cs
+/home/marco/SEII/SEII-MarcoTulioVilelaFonseca/Semana05/Exercicio02/ProgAssincrona/obj/Debug/net8.0/ProgAssincrona.csproj.CoreCompileInputs.cache
+/home/marco/SEII/SEII-MarcoTulioVilelaFonseca/Semana05/Exercicio02/ProgAssincrona/obj/Debug/net8.0/ProgAssincrona.sourcelink.json
+/home/marco/SEII/SEII-MarcoTulioVilelaFonseca/Semana05/Exercicio02/ProgAssincrona/obj/Debug/net8.0/ProgAssincrona.dll
+/home/marco/SEII/SEII-MarcoTulioVilelaFonseca/Semana05/Exercicio02/ProgAssincrona/obj/Debug/net8.0/refint/ProgAssincrona.dll
+/home/marco/SEII/SEII-MarcoTulioVilelaFonseca/Semana05/Exercicio02/ProgAssincrona/obj/Debug/net8.0/ProgAssincrona.pdb
+/home/marco/SEII/SEII-MarcoTulioVilelaFonseca/Semana05/Exercicio02/ProgAssincrona/obj/Debug/net8.0/ProgAssincrona.genruntimeconfig.cache
+/home/marco/SEII/SEII-MarcoTulioVilelaFonseca/Semana05/Exercicio02/ProgAssincrona/obj/Debug/net8.0/ref/ProgAssincrona.dll

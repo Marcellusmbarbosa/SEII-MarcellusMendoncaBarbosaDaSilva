@@ -1,0 +1,11 @@
+{
+    "configurations": [
+        {
+            "name": "C#: AbrstractDataTypes",
+            "type": "dotnet",
+            "request": "launch",
+            "projectPath": "${workspaceFolder}/Video01/AbrstractDataTypes/AbrstractDataTypes.csproj",
+            "launchConfigurationId": "TargetFramework=;AbrstractDataTypes"
+        }
+    ]
+}

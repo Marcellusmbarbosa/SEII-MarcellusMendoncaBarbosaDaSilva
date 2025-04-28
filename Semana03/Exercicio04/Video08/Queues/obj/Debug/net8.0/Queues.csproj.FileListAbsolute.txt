@@ -1,0 +1,14 @@
+/home/marco/code/Semana03/Exercicio04/Video08/Queues/bin/Debug/net8.0/Queues
+/home/marco/code/Semana03/Exercicio04/Video08/Queues/bin/Debug/net8.0/Queues.deps.json
+/home/marco/code/Semana03/Exercicio04/Video08/Queues/bin/Debug/net8.0/Queues.runtimeconfig.json
+/home/marco/code/Semana03/Exercicio04/Video08/Queues/bin/Debug/net8.0/Queues.dll
+/home/marco/code/Semana03/Exercicio04/Video08/Queues/bin/Debug/net8.0/Queues.pdb
+/home/marco/code/Semana03/Exercicio04/Video08/Queues/obj/Debug/net8.0/Queues.GeneratedMSBuildEditorConfig.editorconfig
+/home/marco/code/Semana03/Exercicio04/Video08/Queues/obj/Debug/net8.0/Queues.AssemblyInfoInputs.cache
+/home/marco/code/Semana03/Exercicio04/Video08/Queues/obj/Debug/net8.0/Queues.AssemblyInfo.cs
+/home/marco/code/Semana03/Exercicio04/Video08/Queues/obj/Debug/net8.0/Queues.csproj.CoreCompileInputs.cache
+/home/marco/code/Semana03/Exercicio04/Video08/Queues/obj/Debug/net8.0/Queues.dll
+/home/marco/code/Semana03/Exercicio04/Video08/Queues/obj/Debug/net8.0/refint/Queues.dll
+/home/marco/code/Semana03/Exercicio04/Video08/Queues/obj/Debug/net8.0/Queues.pdb
+/home/marco/code/Semana03/Exercicio04/Video08/Queues/obj/Debug/net8.0/Queues.genruntimeconfig.cache
+/home/marco/code/Semana03/Exercicio04/Video08/Queues/obj/Debug/net8.0/ref/Queues.dll

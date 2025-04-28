@@ -1,0 +1,14 @@
+/home/marco/code/Semana03/Exercicio04/Video04/Arrays_Deletions/bin/Debug/net8.0/Arrays_Deletions
+/home/marco/code/Semana03/Exercicio04/Video04/Arrays_Deletions/bin/Debug/net8.0/Arrays_Deletions.deps.json
+/home/marco/code/Semana03/Exercicio04/Video04/Arrays_Deletions/bin/Debug/net8.0/Arrays_Deletions.runtimeconfig.json
+/home/marco/code/Semana03/Exercicio04/Video04/Arrays_Deletions/bin/Debug/net8.0/Arrays_Deletions.dll
+/home/marco/code/Semana03/Exercicio04/Video04/Arrays_Deletions/bin/Debug/net8.0/Arrays_Deletions.pdb
+/home/marco/code/Semana03/Exercicio04/Video04/Arrays_Deletions/obj/Debug/net8.0/Arrays_Deletions.GeneratedMSBuildEditorConfig.editorconfig
+/home/marco/code/Semana03/Exercicio04/Video04/Arrays_Deletions/obj/Debug/net8.0/Arrays_Deletions.AssemblyInfoInputs.cache
+/home/marco/code/Semana03/Exercicio04/Video04/Arrays_Deletions/obj/Debug/net8.0/Arrays_Deletions.AssemblyInfo.cs
+/home/marco/code/Semana03/Exercicio04/Video04/Arrays_Deletions/obj/Debug/net8.0/Arrays_Deletions.csproj.CoreCompileInputs.cache
+/home/marco/code/Semana03/Exercicio04/Video04/Arrays_Deletions/obj/Debug/net8.0/Arrays_Deletions.dll
+/home/marco/code/Semana03/Exercicio04/Video04/Arrays_Deletions/obj/Debug/net8.0/refint/Arrays_Deletions.dll
+/home/marco/code/Semana03/Exercicio04/Video04/Arrays_Deletions/obj/Debug/net8.0/Arrays_Deletions.pdb
+/home/marco/code/Semana03/Exercicio04/Video04/Arrays_Deletions/obj/Debug/net8.0/Arrays_Deletions.genruntimeconfig.cache
+/home/marco/code/Semana03/Exercicio04/Video04/Arrays_Deletions/obj/Debug/net8.0/ref/Arrays_Deletions.dll

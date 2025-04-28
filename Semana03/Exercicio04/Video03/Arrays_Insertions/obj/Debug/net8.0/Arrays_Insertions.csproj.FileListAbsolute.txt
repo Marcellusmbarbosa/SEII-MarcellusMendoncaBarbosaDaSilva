@@ -1,0 +1,14 @@
+/home/marco/code/Semana03/Exercicio04/Video03/Arrays_Insertions/obj/Debug/net8.0/Arrays_Insertions.GeneratedMSBuildEditorConfig.editorconfig
+/home/marco/code/Semana03/Exercicio04/Video03/Arrays_Insertions/obj/Debug/net8.0/Arrays_Insertions.AssemblyInfoInputs.cache
+/home/marco/code/Semana03/Exercicio04/Video03/Arrays_Insertions/obj/Debug/net8.0/Arrays_Insertions.AssemblyInfo.cs
+/home/marco/code/Semana03/Exercicio04/Video03/Arrays_Insertions/obj/Debug/net8.0/Arrays_Insertions.csproj.CoreCompileInputs.cache
+/home/marco/code/Semana03/Exercicio04/Video03/Arrays_Insertions/bin/Debug/net8.0/Arrays_Insertions
+/home/marco/code/Semana03/Exercicio04/Video03/Arrays_Insertions/bin/Debug/net8.0/Arrays_Insertions.deps.json
+/home/marco/code/Semana03/Exercicio04/Video03/Arrays_Insertions/bin/Debug/net8.0/Arrays_Insertions.runtimeconfig.json
+/home/marco/code/Semana03/Exercicio04/Video03/Arrays_Insertions/bin/Debug/net8.0/Arrays_Insertions.dll
+/home/marco/code/Semana03/Exercicio04/Video03/Arrays_Insertions/bin/Debug/net8.0/Arrays_Insertions.pdb
+/home/marco/code/Semana03/Exercicio04/Video03/Arrays_Insertions/obj/Debug/net8.0/Arrays_Insertions.dll
+/home/marco/code/Semana03/Exercicio04/Video03/Arrays_Insertions/obj/Debug/net8.0/refint/Arrays_Insertions.dll
+/home/marco/code/Semana03/Exercicio04/Video03/Arrays_Insertions/obj/Debug/net8.0/Arrays_Insertions.pdb
+/home/marco/code/Semana03/Exercicio04/Video03/Arrays_Insertions/obj/Debug/net8.0/Arrays_Insertions.genruntimeconfig.cache
+/home/marco/code/Semana03/Exercicio04/Video03/Arrays_Insertions/obj/Debug/net8.0/ref/Arrays_Insertions.dll

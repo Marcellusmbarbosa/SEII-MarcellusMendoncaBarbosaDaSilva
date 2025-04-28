@@ -1,0 +1,14 @@
+/home/marco/code/Semana03/Exercicio03/VerifyDirec/bin/Debug/net8.0/VerifyDirec
+/home/marco/code/Semana03/Exercicio03/VerifyDirec/bin/Debug/net8.0/VerifyDirec.deps.json
+/home/marco/code/Semana03/Exercicio03/VerifyDirec/bin/Debug/net8.0/VerifyDirec.runtimeconfig.json
+/home/marco/code/Semana03/Exercicio03/VerifyDirec/bin/Debug/net8.0/VerifyDirec.dll
+/home/marco/code/Semana03/Exercicio03/VerifyDirec/bin/Debug/net8.0/VerifyDirec.pdb
+/home/marco/code/Semana03/Exercicio03/VerifyDirec/obj/Debug/net8.0/VerifyDirec.GeneratedMSBuildEditorConfig.editorconfig
+/home/marco/code/Semana03/Exercicio03/VerifyDirec/obj/Debug/net8.0/VerifyDirec.AssemblyInfoInputs.cache
+/home/marco/code/Semana03/Exercicio03/VerifyDirec/obj/Debug/net8.0/VerifyDirec.AssemblyInfo.cs
+/home/marco/code/Semana03/Exercicio03/VerifyDirec/obj/Debug/net8.0/VerifyDirec.csproj.CoreCompileInputs.cache
+/home/marco/code/Semana03/Exercicio03/VerifyDirec/obj/Debug/net8.0/VerifyDirec.dll
+/home/marco/code/Semana03/Exercicio03/VerifyDirec/obj/Debug/net8.0/refint/VerifyDirec.dll
+/home/marco/code/Semana03/Exercicio03/VerifyDirec/obj/Debug/net8.0/VerifyDirec.pdb
+/home/marco/code/Semana03/Exercicio03/VerifyDirec/obj/Debug/net8.0/VerifyDirec.genruntimeconfig.cache
+/home/marco/code/Semana03/Exercicio03/VerifyDirec/obj/Debug/net8.0/ref/VerifyDirec.dll

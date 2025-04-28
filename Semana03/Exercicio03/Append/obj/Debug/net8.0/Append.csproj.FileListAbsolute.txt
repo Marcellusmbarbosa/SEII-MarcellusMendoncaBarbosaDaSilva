@@ -1,0 +1,14 @@
+/home/marco/code/Semana03/Exercicio03/Append/obj/Debug/net8.0/Append.GeneratedMSBuildEditorConfig.editorconfig
+/home/marco/code/Semana03/Exercicio03/Append/obj/Debug/net8.0/Append.AssemblyInfoInputs.cache
+/home/marco/code/Semana03/Exercicio03/Append/obj/Debug/net8.0/Append.AssemblyInfo.cs
+/home/marco/code/Semana03/Exercicio03/Append/obj/Debug/net8.0/Append.csproj.CoreCompileInputs.cache
+/home/marco/code/Semana03/Exercicio03/Append/bin/Debug/net8.0/Append
+/home/marco/code/Semana03/Exercicio03/Append/bin/Debug/net8.0/Append.deps.json
+/home/marco/code/Semana03/Exercicio03/Append/bin/Debug/net8.0/Append.runtimeconfig.json
+/home/marco/code/Semana03/Exercicio03/Append/bin/Debug/net8.0/Append.dll
+/home/marco/code/Semana03/Exercicio03/Append/bin/Debug/net8.0/Append.pdb
+/home/marco/code/Semana03/Exercicio03/Append/obj/Debug/net8.0/Append.dll
+/home/marco/code/Semana03/Exercicio03/Append/obj/Debug/net8.0/refint/Append.dll
+/home/marco/code/Semana03/Exercicio03/Append/obj/Debug/net8.0/Append.pdb
+/home/marco/code/Semana03/Exercicio03/Append/obj/Debug/net8.0/Append.genruntimeconfig.cache
+/home/marco/code/Semana03/Exercicio03/Append/obj/Debug/net8.0/ref/Append.dll

@@ -1,0 +1,14 @@
+/home/marco/code/Semana03/Exercicio04/Video01/AbrstractDataTypes/bin/Debug/net8.0/AbrstractDataTypes
+/home/marco/code/Semana03/Exercicio04/Video01/AbrstractDataTypes/bin/Debug/net8.0/AbrstractDataTypes.deps.json
+/home/marco/code/Semana03/Exercicio04/Video01/AbrstractDataTypes/bin/Debug/net8.0/AbrstractDataTypes.runtimeconfig.json
+/home/marco/code/Semana03/Exercicio04/Video01/AbrstractDataTypes/bin/Debug/net8.0/AbrstractDataTypes.dll
+/home/marco/code/Semana03/Exercicio04/Video01/AbrstractDataTypes/bin/Debug/net8.0/AbrstractDataTypes.pdb
+/home/marco/code/Semana03/Exercicio04/Video01/AbrstractDataTypes/obj/Debug/net8.0/AbrstractDataTypes.GeneratedMSBuildEditorConfig.editorconfig
+/home/marco/code/Semana03/Exercicio04/Video01/AbrstractDataTypes/obj/Debug/net8.0/AbrstractDataTypes.AssemblyInfoInputs.cache
+/home/marco/code/Semana03/Exercicio04/Video01/AbrstractDataTypes/obj/Debug/net8.0/AbrstractDataTypes.AssemblyInfo.cs
+/home/marco/code/Semana03/Exercicio04/Video01/AbrstractDataTypes/obj/Debug/net8.0/AbrstractDataTypes.csproj.CoreCompileInputs.cache
+/home/marco/code/Semana03/Exercicio04/Video01/AbrstractDataTypes/obj/Debug/net8.0/AbrstractDataTypes.dll
+/home/marco/code/Semana03/Exercicio04/Video01/AbrstractDataTypes/obj/Debug/net8.0/refint/AbrstractDataTypes.dll
+/home/marco/code/Semana03/Exercicio04/Video01/AbrstractDataTypes/obj/Debug/net8.0/AbrstractDataTypes.pdb
+/home/marco/code/Semana03/Exercicio04/Video01/AbrstractDataTypes/obj/Debug/net8.0/AbrstractDataTypes.genruntimeconfig.cache
+/home/marco/code/Semana03/Exercicio04/Video01/AbrstractDataTypes/obj/Debug/net8.0/ref/AbrstractDataTypes.dll

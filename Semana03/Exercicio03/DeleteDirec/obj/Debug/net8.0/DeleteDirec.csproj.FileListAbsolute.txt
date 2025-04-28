@@ -1,0 +1,14 @@
+/home/marco/code/Semana03/Exercicio03/DeleteDirec/bin/Debug/net8.0/DeleteDirec
+/home/marco/code/Semana03/Exercicio03/DeleteDirec/bin/Debug/net8.0/DeleteDirec.deps.json
+/home/marco/code/Semana03/Exercicio03/DeleteDirec/bin/Debug/net8.0/DeleteDirec.runtimeconfig.json
+/home/marco/code/Semana03/Exercicio03/DeleteDirec/bin/Debug/net8.0/DeleteDirec.dll
+/home/marco/code/Semana03/Exercicio03/DeleteDirec/bin/Debug/net8.0/DeleteDirec.pdb
+/home/marco/code/Semana03/Exercicio03/DeleteDirec/obj/Debug/net8.0/DeleteDirec.GeneratedMSBuildEditorConfig.editorconfig
+/home/marco/code/Semana03/Exercicio03/DeleteDirec/obj/Debug/net8.0/DeleteDirec.AssemblyInfoInputs.cache
+/home/marco/code/Semana03/Exercicio03/DeleteDirec/obj/Debug/net8.0/DeleteDirec.AssemblyInfo.cs
+/home/marco/code/Semana03/Exercicio03/DeleteDirec/obj/Debug/net8.0/DeleteDirec.csproj.CoreCompileInputs.cache
+/home/marco/code/Semana03/Exercicio03/DeleteDirec/obj/Debug/net8.0/DeleteDirec.dll
+/home/marco/code/Semana03/Exercicio03/DeleteDirec/obj/Debug/net8.0/refint/DeleteDirec.dll
+/home/marco/code/Semana03/Exercicio03/DeleteDirec/obj/Debug/net8.0/DeleteDirec.pdb
+/home/marco/code/Semana03/Exercicio03/DeleteDirec/obj/Debug/net8.0/DeleteDirec.genruntimeconfig.cache
+/home/marco/code/Semana03/Exercicio03/DeleteDirec/obj/Debug/net8.0/ref/DeleteDirec.dll

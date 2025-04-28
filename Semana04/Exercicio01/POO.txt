@@ -1,0 +1,11 @@
+A Programação Orientada a Objetos (POO) é um paradigma de programação que organiza o software em torno de "objetos". Isso a diferencia da programação procedural, que é baseada em funções que executam passos sequenciais. A POO foca nos objetos, que têm dados e comportamentos, facilitando a construção de sistemas mais organizados e flexíveis.
+
+Classe e Objeto: Uma classe é uma espécie de molde que define as características e comportamentos de algo. Um objeto é uma instância dessa classe, ou seja, um exemplo concreto que segue as definições da classe.
+
+Encapsulamento: Encapsular significa proteger os dados dentro de um objeto, permitindo o acesso a eles apenas por meio de métodos definidos. Isso ajuda a manter a integridade dos dados e evitar modificações indevidas.
+
+Abstração: A abstração simplifica a complexidade de um objeto, mostrando apenas o que é essencial para quem está usando, sem revelar os detalhes internos do funcionamento.
+
+Herança: Herança permite que uma nova classe herde características e comportamentos de uma classe existente. Assim, podemos reutilizar código sem precisar reescrever tudo do zero.
+
+Polimorfismo: O polimorfismo permite que diferentes objetos usem o mesmo método, mas com comportamentos variados dependendo do tipo de objeto. Isso torna o código mais flexível e adaptável a novas necessidades.

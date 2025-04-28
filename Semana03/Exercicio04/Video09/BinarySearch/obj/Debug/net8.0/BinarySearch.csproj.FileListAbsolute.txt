@@ -1,0 +1,14 @@
+/home/marco/code/Semana03/Exercicio04/Video09/BinarySearch/obj/Debug/net8.0/BinarySearch.GeneratedMSBuildEditorConfig.editorconfig
+/home/marco/code/Semana03/Exercicio04/Video09/BinarySearch/obj/Debug/net8.0/BinarySearch.AssemblyInfoInputs.cache
+/home/marco/code/Semana03/Exercicio04/Video09/BinarySearch/obj/Debug/net8.0/BinarySearch.AssemblyInfo.cs
+/home/marco/code/Semana03/Exercicio04/Video09/BinarySearch/obj/Debug/net8.0/BinarySearch.csproj.CoreCompileInputs.cache
+/home/marco/code/Semana03/Exercicio04/Video09/BinarySearch/bin/Debug/net8.0/BinarySearch
+/home/marco/code/Semana03/Exercicio04/Video09/BinarySearch/bin/Debug/net8.0/BinarySearch.deps.json
+/home/marco/code/Semana03/Exercicio04/Video09/BinarySearch/bin/Debug/net8.0/BinarySearch.runtimeconfig.json
+/home/marco/code/Semana03/Exercicio04/Video09/BinarySearch/bin/Debug/net8.0/BinarySearch.dll
+/home/marco/code/Semana03/Exercicio04/Video09/BinarySearch/bin/Debug/net8.0/BinarySearch.pdb
+/home/marco/code/Semana03/Exercicio04/Video09/BinarySearch/obj/Debug/net8.0/BinarySearch.dll
+/home/marco/code/Semana03/Exercicio04/Video09/BinarySearch/obj/Debug/net8.0/refint/BinarySearch.dll
+/home/marco/code/Semana03/Exercicio04/Video09/BinarySearch/obj/Debug/net8.0/BinarySearch.pdb
+/home/marco/code/Semana03/Exercicio04/Video09/BinarySearch/obj/Debug/net8.0/BinarySearch.genruntimeconfig.cache
+/home/marco/code/Semana03/Exercicio04/Video09/BinarySearch/obj/Debug/net8.0/ref/BinarySearch.dll

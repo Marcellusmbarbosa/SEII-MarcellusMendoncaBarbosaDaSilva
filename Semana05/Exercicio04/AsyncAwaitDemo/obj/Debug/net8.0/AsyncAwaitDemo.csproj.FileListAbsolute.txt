@@ -1,0 +1,15 @@
+/home/marco/SEII/SEII-MarcoTulioVilelaFonseca/Semana05/Exercicio04/AsyncAwaitDemo/bin/Debug/net8.0/AsyncAwaitDemo
+/home/marco/SEII/SEII-MarcoTulioVilelaFonseca/Semana05/Exercicio04/AsyncAwaitDemo/bin/Debug/net8.0/AsyncAwaitDemo.deps.json
+/home/marco/SEII/SEII-MarcoTulioVilelaFonseca/Semana05/Exercicio04/AsyncAwaitDemo/bin/Debug/net8.0/AsyncAwaitDemo.runtimeconfig.json
+/home/marco/SEII/SEII-MarcoTulioVilelaFonseca/Semana05/Exercicio04/AsyncAwaitDemo/bin/Debug/net8.0/AsyncAwaitDemo.dll
+/home/marco/SEII/SEII-MarcoTulioVilelaFonseca/Semana05/Exercicio04/AsyncAwaitDemo/bin/Debug/net8.0/AsyncAwaitDemo.pdb
+/home/marco/SEII/SEII-MarcoTulioVilelaFonseca/Semana05/Exercicio04/AsyncAwaitDemo/obj/Debug/net8.0/AsyncAwaitDemo.GeneratedMSBuildEditorConfig.editorconfig
+/home/marco/SEII/SEII-MarcoTulioVilelaFonseca/Semana05/Exercicio04/AsyncAwaitDemo/obj/Debug/net8.0/AsyncAwaitDemo.AssemblyInfoInputs.cache
+/home/marco/SEII/SEII-MarcoTulioVilelaFonseca/Semana05/Exercicio04/AsyncAwaitDemo/obj/Debug/net8.0/AsyncAwaitDemo.AssemblyInfo.cs
+/home/marco/SEII/SEII-MarcoTulioVilelaFonseca/Semana05/Exercicio04/AsyncAwaitDemo/obj/Debug/net8.0/AsyncAwaitDemo.csproj.CoreCompileInputs.cache
+/home/marco/SEII/SEII-MarcoTulioVilelaFonseca/Semana05/Exercicio04/AsyncAwaitDemo/obj/Debug/net8.0/AsyncAwaitDemo.sourcelink.json
+/home/marco/SEII/SEII-MarcoTulioVilelaFonseca/Semana05/Exercicio04/AsyncAwaitDemo/obj/Debug/net8.0/AsyncAwaitDemo.dll
+/home/marco/SEII/SEII-MarcoTulioVilelaFonseca/Semana05/Exercicio04/AsyncAwaitDemo/obj/Debug/net8.0/refint/AsyncAwaitDemo.dll
+/home/marco/SEII/SEII-MarcoTulioVilelaFonseca/Semana05/Exercicio04/AsyncAwaitDemo/obj/Debug/net8.0/AsyncAwaitDemo.pdb
+/home/marco/SEII/SEII-MarcoTulioVilelaFonseca/Semana05/Exercicio04/AsyncAwaitDemo/obj/Debug/net8.0/AsyncAwaitDemo.genruntimeconfig.cache
+/home/marco/SEII/SEII-MarcoTulioVilelaFonseca/Semana05/Exercicio04/AsyncAwaitDemo/obj/Debug/net8.0/ref/AsyncAwaitDemo.dll

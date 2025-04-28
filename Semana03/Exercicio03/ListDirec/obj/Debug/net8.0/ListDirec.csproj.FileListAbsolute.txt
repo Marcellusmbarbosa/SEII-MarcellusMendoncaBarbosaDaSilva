@@ -1,0 +1,14 @@
+/home/marco/code/Semana03/Exercicio03/ListDirec/obj/Debug/net8.0/ListDirec.GeneratedMSBuildEditorConfig.editorconfig
+/home/marco/code/Semana03/Exercicio03/ListDirec/obj/Debug/net8.0/ListDirec.AssemblyInfoInputs.cache
+/home/marco/code/Semana03/Exercicio03/ListDirec/obj/Debug/net8.0/ListDirec.AssemblyInfo.cs
+/home/marco/code/Semana03/Exercicio03/ListDirec/obj/Debug/net8.0/ListDirec.csproj.CoreCompileInputs.cache
+/home/marco/code/Semana03/Exercicio03/ListDirec/bin/Debug/net8.0/ListDirec
+/home/marco/code/Semana03/Exercicio03/ListDirec/bin/Debug/net8.0/ListDirec.deps.json
+/home/marco/code/Semana03/Exercicio03/ListDirec/bin/Debug/net8.0/ListDirec.runtimeconfig.json
+/home/marco/code/Semana03/Exercicio03/ListDirec/bin/Debug/net8.0/ListDirec.dll
+/home/marco/code/Semana03/Exercicio03/ListDirec/bin/Debug/net8.0/ListDirec.pdb
+/home/marco/code/Semana03/Exercicio03/ListDirec/obj/Debug/net8.0/ListDirec.dll
+/home/marco/code/Semana03/Exercicio03/ListDirec/obj/Debug/net8.0/refint/ListDirec.dll
+/home/marco/code/Semana03/Exercicio03/ListDirec/obj/Debug/net8.0/ListDirec.pdb
+/home/marco/code/Semana03/Exercicio03/ListDirec/obj/Debug/net8.0/ListDirec.genruntimeconfig.cache
+/home/marco/code/Semana03/Exercicio03/ListDirec/obj/Debug/net8.0/ref/ListDirec.dll

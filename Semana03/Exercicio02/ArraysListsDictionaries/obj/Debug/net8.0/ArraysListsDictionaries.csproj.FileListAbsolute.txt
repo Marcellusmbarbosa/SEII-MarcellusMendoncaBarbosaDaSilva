@@ -1,0 +1,14 @@
+/home/marco/code/Semana03/Exercicio02/ArraysListsDictionaries/bin/Debug/net8.0/ArraysListsDictionaries
+/home/marco/code/Semana03/Exercicio02/ArraysListsDictionaries/bin/Debug/net8.0/ArraysListsDictionaries.deps.json
+/home/marco/code/Semana03/Exercicio02/ArraysListsDictionaries/bin/Debug/net8.0/ArraysListsDictionaries.runtimeconfig.json
+/home/marco/code/Semana03/Exercicio02/ArraysListsDictionaries/bin/Debug/net8.0/ArraysListsDictionaries.dll
+/home/marco/code/Semana03/Exercicio02/ArraysListsDictionaries/bin/Debug/net8.0/ArraysListsDictionaries.pdb
+/home/marco/code/Semana03/Exercicio02/ArraysListsDictionaries/obj/Debug/net8.0/ArraysListsDictionaries.GeneratedMSBuildEditorConfig.editorconfig
+/home/marco/code/Semana03/Exercicio02/ArraysListsDictionaries/obj/Debug/net8.0/ArraysListsDictionaries.AssemblyInfoInputs.cache
+/home/marco/code/Semana03/Exercicio02/ArraysListsDictionaries/obj/Debug/net8.0/ArraysListsDictionaries.AssemblyInfo.cs
+/home/marco/code/Semana03/Exercicio02/ArraysListsDictionaries/obj/Debug/net8.0/ArraysListsDictionaries.csproj.CoreCompileInputs.cache
+/home/marco/code/Semana03/Exercicio02/ArraysListsDictionaries/obj/Debug/net8.0/ArraysListsDictionaries.dll
+/home/marco/code/Semana03/Exercicio02/ArraysListsDictionaries/obj/Debug/net8.0/refint/ArraysListsDictionaries.dll
+/home/marco/code/Semana03/Exercicio02/ArraysListsDictionaries/obj/Debug/net8.0/ArraysListsDictionaries.pdb
+/home/marco/code/Semana03/Exercicio02/ArraysListsDictionaries/obj/Debug/net8.0/ArraysListsDictionaries.genruntimeconfig.cache
+/home/marco/code/Semana03/Exercicio02/ArraysListsDictionaries/obj/Debug/net8.0/ref/ArraysListsDictionaries.dll

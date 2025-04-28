@@ -1,0 +1,14 @@
+/home/marco/code/Semana03/Exercicio03/Read/obj/Debug/net8.0/Read.GeneratedMSBuildEditorConfig.editorconfig
+/home/marco/code/Semana03/Exercicio03/Read/obj/Debug/net8.0/Read.AssemblyInfoInputs.cache
+/home/marco/code/Semana03/Exercicio03/Read/obj/Debug/net8.0/Read.AssemblyInfo.cs
+/home/marco/code/Semana03/Exercicio03/Read/obj/Debug/net8.0/Read.csproj.CoreCompileInputs.cache
+/home/marco/code/Semana03/Exercicio03/Read/bin/Debug/net8.0/Read
+/home/marco/code/Semana03/Exercicio03/Read/bin/Debug/net8.0/Read.deps.json
+/home/marco/code/Semana03/Exercicio03/Read/bin/Debug/net8.0/Read.runtimeconfig.json
+/home/marco/code/Semana03/Exercicio03/Read/bin/Debug/net8.0/Read.dll
+/home/marco/code/Semana03/Exercicio03/Read/bin/Debug/net8.0/Read.pdb
+/home/marco/code/Semana03/Exercicio03/Read/obj/Debug/net8.0/Read.dll
+/home/marco/code/Semana03/Exercicio03/Read/obj/Debug/net8.0/refint/Read.dll
+/home/marco/code/Semana03/Exercicio03/Read/obj/Debug/net8.0/Read.pdb
+/home/marco/code/Semana03/Exercicio03/Read/obj/Debug/net8.0/Read.genruntimeconfig.cache
+/home/marco/code/Semana03/Exercicio03/Read/obj/Debug/net8.0/ref/Read.dll

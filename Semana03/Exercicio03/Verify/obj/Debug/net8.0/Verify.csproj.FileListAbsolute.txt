@@ -1,0 +1,14 @@
+/home/marco/code/Semana03/Exercicio03/Verify/obj/Debug/net8.0/Verify.GeneratedMSBuildEditorConfig.editorconfig
+/home/marco/code/Semana03/Exercicio03/Verify/obj/Debug/net8.0/Verify.AssemblyInfoInputs.cache
+/home/marco/code/Semana03/Exercicio03/Verify/obj/Debug/net8.0/Verify.AssemblyInfo.cs
+/home/marco/code/Semana03/Exercicio03/Verify/obj/Debug/net8.0/Verify.csproj.CoreCompileInputs.cache
+/home/marco/code/Semana03/Exercicio03/Verify/bin/Debug/net8.0/Verify
+/home/marco/code/Semana03/Exercicio03/Verify/bin/Debug/net8.0/Verify.deps.json
+/home/marco/code/Semana03/Exercicio03/Verify/bin/Debug/net8.0/Verify.runtimeconfig.json
+/home/marco/code/Semana03/Exercicio03/Verify/bin/Debug/net8.0/Verify.dll
+/home/marco/code/Semana03/Exercicio03/Verify/bin/Debug/net8.0/Verify.pdb
+/home/marco/code/Semana03/Exercicio03/Verify/obj/Debug/net8.0/Verify.dll
+/home/marco/code/Semana03/Exercicio03/Verify/obj/Debug/net8.0/refint/Verify.dll
+/home/marco/code/Semana03/Exercicio03/Verify/obj/Debug/net8.0/Verify.pdb
+/home/marco/code/Semana03/Exercicio03/Verify/obj/Debug/net8.0/Verify.genruntimeconfig.cache
+/home/marco/code/Semana03/Exercicio03/Verify/obj/Debug/net8.0/ref/Verify.dll

@@ -1,0 +1,14 @@
+/home/marco/code/Semana03/Exercicio03/Write/bin/Debug/net8.0/Write
+/home/marco/code/Semana03/Exercicio03/Write/bin/Debug/net8.0/Write.deps.json
+/home/marco/code/Semana03/Exercicio03/Write/bin/Debug/net8.0/Write.runtimeconfig.json
+/home/marco/code/Semana03/Exercicio03/Write/bin/Debug/net8.0/Write.dll
+/home/marco/code/Semana03/Exercicio03/Write/bin/Debug/net8.0/Write.pdb
+/home/marco/code/Semana03/Exercicio03/Write/obj/Debug/net8.0/Write.GeneratedMSBuildEditorConfig.editorconfig
+/home/marco/code/Semana03/Exercicio03/Write/obj/Debug/net8.0/Write.AssemblyInfoInputs.cache
+/home/marco/code/Semana03/Exercicio03/Write/obj/Debug/net8.0/Write.AssemblyInfo.cs
+/home/marco/code/Semana03/Exercicio03/Write/obj/Debug/net8.0/Write.csproj.CoreCompileInputs.cache
+/home/marco/code/Semana03/Exercicio03/Write/obj/Debug/net8.0/Write.dll
+/home/marco/code/Semana03/Exercicio03/Write/obj/Debug/net8.0/refint/Write.dll
+/home/marco/code/Semana03/Exercicio03/Write/obj/Debug/net8.0/Write.pdb
+/home/marco/code/Semana03/Exercicio03/Write/obj/Debug/net8.0/Write.genruntimeconfig.cache
+/home/marco/code/Semana03/Exercicio03/Write/obj/Debug/net8.0/ref/Write.dll

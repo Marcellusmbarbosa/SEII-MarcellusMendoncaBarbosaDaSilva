@@ -1,0 +1,14 @@
+/home/marco/code/Semana03/Exercicio03/WriteMultLines/obj/Debug/net8.0/WriteMultLines.GeneratedMSBuildEditorConfig.editorconfig
+/home/marco/code/Semana03/Exercicio03/WriteMultLines/obj/Debug/net8.0/WriteMultLines.AssemblyInfoInputs.cache
+/home/marco/code/Semana03/Exercicio03/WriteMultLines/obj/Debug/net8.0/WriteMultLines.AssemblyInfo.cs
+/home/marco/code/Semana03/Exercicio03/WriteMultLines/obj/Debug/net8.0/WriteMultLines.csproj.CoreCompileInputs.cache
+/home/marco/code/Semana03/Exercicio03/WriteMultLines/bin/Debug/net8.0/WriteMultLines
+/home/marco/code/Semana03/Exercicio03/WriteMultLines/bin/Debug/net8.0/WriteMultLines.deps.json
+/home/marco/code/Semana03/Exercicio03/WriteMultLines/bin/Debug/net8.0/WriteMultLines.runtimeconfig.json
+/home/marco/code/Semana03/Exercicio03/WriteMultLines/bin/Debug/net8.0/WriteMultLines.dll
+/home/marco/code/Semana03/Exercicio03/WriteMultLines/bin/Debug/net8.0/WriteMultLines.pdb
+/home/marco/code/Semana03/Exercicio03/WriteMultLines/obj/Debug/net8.0/WriteMultLines.dll
+/home/marco/code/Semana03/Exercicio03/WriteMultLines/obj/Debug/net8.0/refint/WriteMultLines.dll
+/home/marco/code/Semana03/Exercicio03/WriteMultLines/obj/Debug/net8.0/WriteMultLines.pdb
+/home/marco/code/Semana03/Exercicio03/WriteMultLines/obj/Debug/net8.0/WriteMultLines.genruntimeconfig.cache
+/home/marco/code/Semana03/Exercicio03/WriteMultLines/obj/Debug/net8.0/ref/WriteMultLines.dll

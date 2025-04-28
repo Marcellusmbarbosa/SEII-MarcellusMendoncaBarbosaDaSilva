@@ -1,0 +1,14 @@
+/home/marco/code/Semana03/Exercicio04/Video06/List/bin/Debug/net8.0/List
+/home/marco/code/Semana03/Exercicio04/Video06/List/bin/Debug/net8.0/List.deps.json
+/home/marco/code/Semana03/Exercicio04/Video06/List/bin/Debug/net8.0/List.runtimeconfig.json
+/home/marco/code/Semana03/Exercicio04/Video06/List/bin/Debug/net8.0/List.dll
+/home/marco/code/Semana03/Exercicio04/Video06/List/bin/Debug/net8.0/List.pdb
+/home/marco/code/Semana03/Exercicio04/Video06/List/obj/Debug/net8.0/List.GeneratedMSBuildEditorConfig.editorconfig
+/home/marco/code/Semana03/Exercicio04/Video06/List/obj/Debug/net8.0/List.AssemblyInfoInputs.cache
+/home/marco/code/Semana03/Exercicio04/Video06/List/obj/Debug/net8.0/List.AssemblyInfo.cs
+/home/marco/code/Semana03/Exercicio04/Video06/List/obj/Debug/net8.0/List.csproj.CoreCompileInputs.cache
+/home/marco/code/Semana03/Exercicio04/Video06/List/obj/Debug/net8.0/List.dll
+/home/marco/code/Semana03/Exercicio04/Video06/List/obj/Debug/net8.0/refint/List.dll
+/home/marco/code/Semana03/Exercicio04/Video06/List/obj/Debug/net8.0/List.pdb
+/home/marco/code/Semana03/Exercicio04/Video06/List/obj/Debug/net8.0/List.genruntimeconfig.cache
+/home/marco/code/Semana03/Exercicio04/Video06/List/obj/Debug/net8.0/ref/List.dll

@@ -1,0 +1,14 @@
+/home/marco/code/Semana03/Exercicio03/ReadMultLines/bin/Debug/net8.0/ReadMultLines
+/home/marco/code/Semana03/Exercicio03/ReadMultLines/bin/Debug/net8.0/ReadMultLines.deps.json
+/home/marco/code/Semana03/Exercicio03/ReadMultLines/bin/Debug/net8.0/ReadMultLines.runtimeconfig.json
+/home/marco/code/Semana03/Exercicio03/ReadMultLines/bin/Debug/net8.0/ReadMultLines.dll
+/home/marco/code/Semana03/Exercicio03/ReadMultLines/bin/Debug/net8.0/ReadMultLines.pdb
+/home/marco/code/Semana03/Exercicio03/ReadMultLines/obj/Debug/net8.0/ReadMultLines.GeneratedMSBuildEditorConfig.editorconfig
+/home/marco/code/Semana03/Exercicio03/ReadMultLines/obj/Debug/net8.0/ReadMultLines.AssemblyInfoInputs.cache
+/home/marco/code/Semana03/Exercicio03/ReadMultLines/obj/Debug/net8.0/ReadMultLines.AssemblyInfo.cs
+/home/marco/code/Semana03/Exercicio03/ReadMultLines/obj/Debug/net8.0/ReadMultLines.csproj.CoreCompileInputs.cache
+/home/marco/code/Semana03/Exercicio03/ReadMultLines/obj/Debug/net8.0/ReadMultLines.dll
+/home/marco/code/Semana03/Exercicio03/ReadMultLines/obj/Debug/net8.0/refint/ReadMultLines.dll
+/home/marco/code/Semana03/Exercicio03/ReadMultLines/obj/Debug/net8.0/ReadMultLines.pdb
+/home/marco/code/Semana03/Exercicio03/ReadMultLines/obj/Debug/net8.0/ReadMultLines.genruntimeconfig.cache
+/home/marco/code/Semana03/Exercicio03/ReadMultLines/obj/Debug/net8.0/ref/ReadMultLines.dll
