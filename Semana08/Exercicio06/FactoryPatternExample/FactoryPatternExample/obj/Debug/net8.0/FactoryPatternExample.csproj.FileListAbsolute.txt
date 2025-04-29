@@ -1,0 +1,15 @@
+C:\Users\marce\Desktop\Semb2\SEII-MarcellusMendoncaBarbosaDaSilva\Semana08\Exercicio06\FactoryPatternExample\FactoryPatternExample\bin\Debug\net8.0\FactoryPatternExample.exe
+C:\Users\marce\Desktop\Semb2\SEII-MarcellusMendoncaBarbosaDaSilva\Semana08\Exercicio06\FactoryPatternExample\FactoryPatternExample\bin\Debug\net8.0\FactoryPatternExample.deps.json
+C:\Users\marce\Desktop\Semb2\SEII-MarcellusMendoncaBarbosaDaSilva\Semana08\Exercicio06\FactoryPatternExample\FactoryPatternExample\bin\Debug\net8.0\FactoryPatternExample.runtimeconfig.json
+C:\Users\marce\Desktop\Semb2\SEII-MarcellusMendoncaBarbosaDaSilva\Semana08\Exercicio06\FactoryPatternExample\FactoryPatternExample\bin\Debug\net8.0\FactoryPatternExample.dll
+C:\Users\marce\Desktop\Semb2\SEII-MarcellusMendoncaBarbosaDaSilva\Semana08\Exercicio06\FactoryPatternExample\FactoryPatternExample\bin\Debug\net8.0\FactoryPatternExample.pdb
+C:\Users\marce\Desktop\Semb2\SEII-MarcellusMendoncaBarbosaDaSilva\Semana08\Exercicio06\FactoryPatternExample\FactoryPatternExample\obj\Debug\net8.0\FactoryPatternExample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marce\Desktop\Semb2\SEII-MarcellusMendoncaBarbosaDaSilva\Semana08\Exercicio06\FactoryPatternExample\FactoryPatternExample\obj\Debug\net8.0\FactoryPatternExample.AssemblyInfoInputs.cache
+C:\Users\marce\Desktop\Semb2\SEII-MarcellusMendoncaBarbosaDaSilva\Semana08\Exercicio06\FactoryPatternExample\FactoryPatternExample\obj\Debug\net8.0\FactoryPatternExample.AssemblyInfo.cs
+C:\Users\marce\Desktop\Semb2\SEII-MarcellusMendoncaBarbosaDaSilva\Semana08\Exercicio06\FactoryPatternExample\FactoryPatternExample\obj\Debug\net8.0\FactoryPatternExample.csproj.CoreCompileInputs.cache
+C:\Users\marce\Desktop\Semb2\SEII-MarcellusMendoncaBarbosaDaSilva\Semana08\Exercicio06\FactoryPatternExample\FactoryPatternExample\obj\Debug\net8.0\FactoryPatternExample.sourcelink.json
+C:\Users\marce\Desktop\Semb2\SEII-MarcellusMendoncaBarbosaDaSilva\Semana08\Exercicio06\FactoryPatternExample\FactoryPatternExample\obj\Debug\net8.0\FactoryPatternExample.dll
+C:\Users\marce\Desktop\Semb2\SEII-MarcellusMendoncaBarbosaDaSilva\Semana08\Exercicio06\FactoryPatternExample\FactoryPatternExample\obj\Debug\net8.0\refint\FactoryPatternExample.dll
+C:\Users\marce\Desktop\Semb2\SEII-MarcellusMendoncaBarbosaDaSilva\Semana08\Exercicio06\FactoryPatternExample\FactoryPatternExample\obj\Debug\net8.0\FactoryPatternExample.pdb
+C:\Users\marce\Desktop\Semb2\SEII-MarcellusMendoncaBarbosaDaSilva\Semana08\Exercicio06\FactoryPatternExample\FactoryPatternExample\obj\Debug\net8.0\FactoryPatternExample.genruntimeconfig.cache
+C:\Users\marce\Desktop\Semb2\SEII-MarcellusMendoncaBarbosaDaSilva\Semana08\Exercicio06\FactoryPatternExample\FactoryPatternExample\obj\Debug\net8.0\ref\FactoryPatternExample.dll
