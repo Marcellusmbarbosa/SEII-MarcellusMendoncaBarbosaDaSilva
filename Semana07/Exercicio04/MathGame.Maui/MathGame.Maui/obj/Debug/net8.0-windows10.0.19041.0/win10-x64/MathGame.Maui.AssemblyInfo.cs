@@ -18,7 +18,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MathGame.Maui")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0+8646dbe29c83431fbf5ba4fd1024c34e2fae3008")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0+19ea0c380f1d1ea2ddf3f49f19e56a74dc6133c3")]
 [assembly: System.Reflection.AssemblyProductAttribute("MathGame.Maui")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MathGame.Maui")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
